@@ -15,6 +15,12 @@ before:
     # you may remove this if you don't need go generate
     - go generate ./...
 
+brews:
+  - repository:
+      owner: hassaku63
+      name: homebrew-tap
+      token: "{{ .Env.TAP_GITHUB_TOKEN }}"
+
 builds:
   - id: hello
     main: ./cmd/hello
