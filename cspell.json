@@ -4,7 +4,11 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
-        "delstack"
+        "delstack",
+        "goreleaser",
+        "modelines",
+        "modeline",
+        "cnqoj"
     ],
     "ignoreWords": [],
     "import": []
