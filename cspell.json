@@ -9,7 +9,9 @@
         "goreleaser",
         "hassaku63",
         "modeline",
-        "modelines"
+        "modelines",
+        "promptui",
+        "subcmd"
     ],
     "ignoreWords": [],
     "import": []
